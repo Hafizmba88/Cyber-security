@@ -1,0 +1,15 @@
+## Malware 
+## Virus
+## Worm
+## Ransomware
+## Spyware
+## Phishing
+## Spear Phishing
+## Whaling
+## Business email compromise (BEC)
+## Vishing
+## Social Engineering
+## Social Media Phishing
+## Watering Hole Attack
+## Physical Social Engineering
+## USB Baiting
